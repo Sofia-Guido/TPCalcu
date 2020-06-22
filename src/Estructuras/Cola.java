@@ -28,7 +28,7 @@ public class Cola {
 
     }
 
-    //Encolar
+    //Encolar NO ENTIENDO VIVIR :C
     public char enqueue(char dato) throws ColaException {
         Nodo nuevo = new Nodo();
         nuevo.setDato(dato);
